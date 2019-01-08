@@ -1,2 +1,2 @@
 # python
-小白学python
+热血青年学python
