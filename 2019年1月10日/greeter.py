@@ -1,0 +1,10 @@
+prompt = "If you tell us who you are, we can personalize the messages you see."
+prompt = "\nWhat is your first name?"
+name = input(prompt)
+print("Hello "+name+"!")
+
+print("================================================")
+age = input("How old are you?")
+print(age)
+age = int(age)
+print(age >= 18)
