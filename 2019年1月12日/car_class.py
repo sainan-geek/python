@@ -28,4 +28,3 @@ my_user_car.update_odometer(23500)
 my_user_car.read_odometer()
 my_user_car.increment_odometer(100)
 my_user_car.read_odometer()
-    
