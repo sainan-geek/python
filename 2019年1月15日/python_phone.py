@@ -10,7 +10,6 @@ post_data = {
     "from":"zh",
     "to":"en"
 }
-
 post_url = "https://fanyi.baidu.com/basetrans"
 
 r = requests.post(post_url,data=post_data,headers=headers)
