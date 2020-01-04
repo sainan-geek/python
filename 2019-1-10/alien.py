@@ -20,7 +20,7 @@ for alien in aliens[0:3]:
         alien['speed'] = 'medium'
         alien['point'] = 10
     elif alien['color'] == 'yellow':
-        aline['color'] = 'red'
+        alien['color'] = 'red'
         alien['speed'] = 'fast'
         alien['point'] = 15
 
