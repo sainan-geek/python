@@ -2,166 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="combine">
-      <change afterPath="$PROJECT_DIR$/linux/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/citys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/confirmed_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/greeter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/many_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/mountain_poll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/parrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/pets_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/roollercoaster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/formatter_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/greet_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/making_pizzas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/person_fuction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/pizza_fuction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/print_li.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/printing_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/user_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-12/car_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-12/dog_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-12/eletric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/alice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/car_cover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/car_store.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/eletric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/favorite_languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/interesting/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/little_women.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/moby_dick.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_car_cover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_cars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_eletric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/pi_30_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/pi_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/pi_million_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/programming.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/siddhartha.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/write_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/request_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/request_header.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/requset_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/respones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/考研-第1页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/考研-第2页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/proxy_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/python_phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/renren1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/request_session.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/song.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/字典推导式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-17/rename.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-17/rename.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/change_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/copy_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/min_max_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/players.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/standardplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/cars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/dimension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-1/print_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/while_flag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/confirmed_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/mountain_poll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/while_continue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/while_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/while_true.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/.printing_models.py.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/build_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/formatted_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/fotmatted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/greet_list_people.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/greeter_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-14/print_modles_fuction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/bulid_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/pizza_casual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/pizza_casual_pro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/print_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/make_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/making_pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/user_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-2/operate_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-20/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-20/electricCar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-20/my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/favorite_language.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/my_electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/pi_digitals.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/pi_million_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/open_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/pi_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/pi_million_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/pi_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/programming.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/write_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-23/alince.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-3/4.3_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-3/Operate_list_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-4/Operate_list_use_patr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-4/dimensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-4/if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-7/Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-7/Dictionaries_del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-7/flower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-8/loop_directionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-8/loop_sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-9/favorite_language.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-9/list_in_directionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-1-9/nesting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/.greet_user.py.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/alice_advantures.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/number.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/number_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/number_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/remember_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/username.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/world_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_pro/hm_12_演练精灵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_pro/plane_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_pro/plane_sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,14 +17,29 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$Unnamed.coverage" NAME="pizza Coverage Results" MODIFIED="1579256444147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020-1-17" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1366" />
-    <option name="y" value="249" />
-    <option name="width" value="1920" />
-    <option name="height" value="789" />
   </component>
   <component name="ProjectId" id="1WyQcw8T1CdUtMudEHRf6cNmmGH" />
   <component name="ProjectLevelVcsManager">
@@ -191,12 +52,72 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
-  <component name="RunManager">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plane_main">
+    <configuration name="hm_11_监听退出事件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/hm_11_监听退出事件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_12_演练精灵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/hm_12_演练精灵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pizza" type="PythonConfigurationType" factoryName="Python">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,6 +140,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/plane_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plane_main" />
+        <item itemvalue="Python.hm_12_演练精灵" />
+        <item itemvalue="Python.hm_11_监听退出事件" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -230,7 +180,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579006735780</updated>
-      <workItem from="1580119455270" duration="326000" />
+      <workItem from="1580119455270" duration="1635000" />
+      <workItem from="1580124738609" duration="9978000" />
     </task>
     <task id="LOCAL-00001" summary="add my_pro">
       <created>1580119511964</created>
@@ -259,13 +210,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="combine" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580133193617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580133193617" />
     <state x="607" y="116" key="CommitChangelistDialog2" timestamp="1580119613911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="116" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580119613911" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1580135122332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580135122332" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1580135122331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580135122331" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1580135122331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580135122331" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1580135122332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580135122332" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1580128358563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580128358563" />
     <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580119624821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="256" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580119624821" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580127142808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580127142808" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1580135122321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
+    <SUITE FILE_PATH="coverage/python$hm_12_.coverage" NAME="hm_12_演练精灵 Coverage Results" MODIFIED="1580128987267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
+    <SUITE FILE_PATH="coverage/python$hm_11_.coverage" NAME="hm_11_监听退出事件 Coverage Results" MODIFIED="1580125841353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
   </component>
 </project>
