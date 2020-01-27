@@ -1,12 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/2020-1-4/Operate_list_use_patr.py" afterPath="$PROJECT_DIR$/2020-1-4/Operate_list_use_patr.py" />
+    <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="combine">
+      <change afterPath="$PROJECT_DIR$/linux/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/citys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/confirmed_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/greeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/greeter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/many_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/mountain_poll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/parrot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/pets_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-10/roollercoaster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/formatter_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/greet_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/greeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/making_pizzas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/person_fuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/pizza_fuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/print_li.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/printing_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-11/user_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-12/car_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-12/dog_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-12/eletric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/alice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/car_cover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/car_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/eletric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/interesting/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/little_women.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/moby_dick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_car_cover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/my_eletric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/pi_30_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/pi_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/pi_million_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/programming.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/siddhartha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/word_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-13/write_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/request_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/request_header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/requset_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/respones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/考研-第1页.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-14/考研-第2页.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/proxy_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/python_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/renren1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/request_session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-15/字典推导式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-17/rename.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-17/rename.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/change_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/copy_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/min_max_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/standardplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-8/variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/dimension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2019-1-9/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-1/print_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-10/while_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/confirmed_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/mountain_poll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/while_continue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/while_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-11/while_true.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/.printing_models.py.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/build_person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/formatted_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/fotmatted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/greet_list_people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/greeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/greeter_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-12/pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-14/print_modles_fuction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/bulid_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/pizza_casual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/pizza_casual_pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-15/print_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/make_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/making_pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-17/user_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-2/operate_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-20/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-20/electricCar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-20/my_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/electric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/favorite_language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/my_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/my_electric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/pi_digitals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-21/pi_million_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/open_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/pi_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/pi_million_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/pi_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/programming.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-22/write_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-23/alince.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-3/4.3_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-3/Operate_list_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-4/Operate_list_use_patr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-4/dimensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-4/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-7/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-7/Dictionaries_del.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-7/flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-8/loop_directionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-8/loop_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-9/favorite_language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-9/list_in_directionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-1-9/nesting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/.greet_user.py.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/alice_advantures.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/number.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/number_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/number_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/remember_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/username.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/2020-2-24/world_count.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,28 +171,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$Unnamed.coverage" NAME="pizza Coverage Results" MODIFIED="1579256444147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020-1-17" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="making_pizza.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2020-1-17/making_pizza.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1366" />
@@ -45,58 +181,20 @@
     <option name="height" value="789" />
   </component>
   <component name="ProjectId" id="1WyQcw8T1CdUtMudEHRf6cNmmGH" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-1-17" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="pizza" type="PythonConfigurationType" factoryName="Python">
@@ -122,9 +220,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -135,63 +230,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579006735780</updated>
+      <workItem from="1580119455270" duration="326000" />
     </task>
+    <task id="LOCAL-00001" summary="add my_pro">
+      <created>1580119511964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580119511964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="combine">
+      <created>1580119615298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580119615298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1366" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add my_pro" />
+    <MESSAGE value="combine" />
+    <option name="LAST_COMMIT_MESSAGE" value="combine" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="607" y="116" key="CommitChangelistDialog2" timestamp="1580119524311">
+    <state x="607" y="116" key="CommitChangelistDialog2" timestamp="1580119613911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="607" y="116" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580119524311" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580119537350">
+    <state x="607" y="116" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580119613911" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580119624821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580119537350" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2020-1-17/making_pizza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580119624821" />
   </component>
 </project>
