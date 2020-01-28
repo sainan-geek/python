@@ -1,4 +1,5 @@
 import pygame
+
 from plane_sprites import *
 
 
@@ -27,6 +28,10 @@ class PlaneGame(object):
         # 创建敌机的精灵组
         self.enemy_group = pygame.sprite.Group()
 
+        # 创建英雄的精灵和精灵组
+        self.hero = Hero()
+        self.hero_group = pygame.sprite.Group(self.hero)
+
     def start_game(self):
         print("游戏开始......")
         while True:
@@ -50,12 +55,19 @@ class PlaneGame(object):
             if event.type == pygame.QUIT:
                 PlaneGame.__game_over()  # 用类名PlaneGame调用静态方法
             elif event.type == CREATE_ENEMY_EVENT:  # 定时器使用方法 定义常量 使用常量
-                print("敌机出场....")
-            # 创建敌机精灵
-            enemy = Enemy()
+                #print("敌机出场....")
+                # 创建敌机精灵
+                enemy = Enemy()    # 缩进啊
 
-            # 将敌机精灵加到敌机精灵组
-            self.enemy_group.add(enemy)
+                # 将敌机精灵加到敌机精灵组
+                self.enemy_group.add(enemy)
+            # elif event.type == pygame.KEYDOWN and event.key == pygame.K_RIGHT:
+            #   print("向右移动...")
+        # 使用键盘提供方法获取键盘按键
+        keys_pressed = pygame.key.get_pressed()
+        # 判断元组中对应的按键索引值
+        if keys_pressed[pygame.K_RIGHT]:
+            print("持续向右移动....")
 
     def __check_collide(self):
         pass
@@ -67,6 +79,9 @@ class PlaneGame(object):
 
         self.enemy_group.update()
         self.enemy_group.draw(self.screen)
+
+        self.back_group.update()
+        self.hero_group.draw(self.screen)
 
     @staticmethod
     def __game_over():  # 静态方法
