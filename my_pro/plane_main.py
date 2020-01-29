@@ -92,7 +92,7 @@ class PlaneGame(object):
             self.hero.kill()
             # 游戏结束
             PlaneGame.__game_over()
-            
+
     def __update_sprites(self):
 
         self.back_group.update()
