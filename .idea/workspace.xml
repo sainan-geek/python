@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="2020年1月27日22:25:47&#10;背景类设计">
+    <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_pro/plane_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_pro/plane_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_pro/plane_sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_pro/plane_sprites.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$plane_sprites.coverage" NAME="plane_sprites Coverage Results" MODIFIED="1580283001558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
     <SUITE FILE_PATH="coverage/python$Unnamed.coverage" NAME="pizza Coverage Results" MODIFIED="1579256444147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020-1-17" />
+    <SUITE FILE_PATH="coverage/python$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1580283788663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -38,6 +38,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1366" />
+    <option name="y" value="249" />
+    <option name="width" value="1920" />
+    <option name="height" value="789" />
+  </component>
   <component name="ProjectId" id="1WyQcw8T1CdUtMudEHRf6cNmmGH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,7 +66,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -144,9 +150,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_pro" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -159,11 +165,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="plane_sprites" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/plane_sprites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pizza" />
+      <item itemvalue="Python.hm_11_监听退出事件" />
+      <item itemvalue="Python.hm_12_演练精灵" />
+      <item itemvalue="Python.plane_main" />
+      <item itemvalue="Python.plane_sprites" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.plane_main" />
-        <item itemvalue="Python.hm_12_演练精灵" />
-        <item itemvalue="Python.hm_11_监听退出事件" />
+        <item itemvalue="Python.plane_sprites" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +215,7 @@
       <workItem from="1580124738609" duration="11882000" />
       <workItem from="1580185530151" duration="3178000" />
       <workItem from="1580198396728" duration="2822000" />
+      <workItem from="1580536934413" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="add my_pro">
       <created>1580119511964</created>
@@ -203,28 +238,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580135183701</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="game over">
+      <created>1580284892885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580284892885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add my_pro" />
     <MESSAGE value="combine" />
     <MESSAGE value="2020年1月27日22:25:47&#10;背景类设计" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年1月27日22:25:47&#10;背景类设计" />
+    <MESSAGE value="game over" />
+    <option name="LAST_COMMIT_MESSAGE" value="game over" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580133193617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580133193617" />
-    <state x="607" y="116" key="CommitChangelistDialog2" timestamp="1580135182068">
+    <state x="607" y="116" key="CommitChangelistDialog2" timestamp="1580537020073">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="607" y="116" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580135182068" />
+    <state x="607" y="116" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580537020073" />
     <state width="1860" height="281" key="GridCell.Tab.0.bottom" timestamp="1580201779707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,10 +283,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1860" height="281" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580201779707" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1580128358563">
+    <state x="463" y="165" key="SettingsEditor" timestamp="1580536958295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580128358563" />
+    <state x="463" y="165" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580536958295" />
     <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580135840057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -258,5 +300,20 @@
     <SUITE FILE_PATH="coverage/python$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1580201779692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
     <SUITE FILE_PATH="coverage/python$hm_12_.coverage" NAME="hm_12_演练精灵 Coverage Results" MODIFIED="1580128987267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
     <SUITE FILE_PATH="coverage/python$hm_11_.coverage" NAME="hm_11_监听退出事件 Coverage Results" MODIFIED="1580125841353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
