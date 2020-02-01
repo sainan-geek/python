@@ -2,7 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/linux/2020-2-1/tcp_client.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/.idea/my_pro.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_01_pygame入门.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_02_使用Rect描述英雄.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_03_创建游戏窗口.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_04_绘制图像.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_05_绘制英雄图像.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_06_update方法.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_07_认识时钟游戏循环.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_08_更新英雄位置.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_09_英雄循环飞行.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_10_事件监听.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_11_监听退出事件.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/hm_12_演练精灵.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/again.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/background.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/bomb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/bomb_supply.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/bullet1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/bullet2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/bullet_supply.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy1_down1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy1_down2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy1_down3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy1_down4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy2_down1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy2_down2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy2_down3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy2_down4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy2_hit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_down1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_down2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_down3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_down4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_down5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_down6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_hit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_n1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/enemy3_n2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/gameover.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/life.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/me1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/me2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/me_destroy_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/me_destroy_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/me_destroy_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/me_destroy_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/pause_nor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/pause_pressed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/resume_nor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/images/resume_pressed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/plane_main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/windows/my_pro/plane_sprites.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +94,8 @@
       <file leaf-file-name="tcp_client.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linux/2020-2-1/tcp_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="264">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -94,6 +151,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,22 +159,10 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="2020-2-1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -354,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580543273757</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020-2-1">
+      <created>1580549304058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580549304058</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -364,9 +417,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -394,7 +447,8 @@
     <MESSAGE value="2020年1月27日22:25:47&#10;背景类设计" />
     <MESSAGE value="game over" />
     <MESSAGE value="linux change" />
-    <option name="LAST_COMMIT_MESSAGE" value="linux change" />
+    <MESSAGE value="2020-2-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-2-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580133193617">
@@ -444,6 +498,14 @@
     <SUITE FILE_PATH="coverage/python$hm_11_.coverage" NAME="hm_11_监听退出事件 Coverage Results" MODIFIED="1580125841353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/linux/2020-2-1/tcp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/linux/2020-2-1/tcp_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -570,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linux/2020-2-1/tcp_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="264">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
