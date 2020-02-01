@@ -2,8 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da14633-380a-4e38-b61d-db7a3e3fbc04" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/2020-1-30/udp_bind.py" afterPath="$PROJECT_DIR$/linux/2020-1-30/udp_bind.py" />
+      <change beforePath="$PROJECT_DIR$/2020-1-30/udp_chat.py" afterPath="$PROJECT_DIR$/linux/2020-1-30/udp_chat.py" />
+      <change beforePath="$PROJECT_DIR$/2020-1-30/udp_receive.py" afterPath="$PROJECT_DIR$/linux/2020-1-30/udp_receive.py" />
+      <change beforePath="$PROJECT_DIR$/2020-1-30/udp_send.py" afterPath="$PROJECT_DIR$/linux/2020-1-30/udp_send.py" />
+      <change beforePath="$PROJECT_DIR$/for_work/udp_chat_other.py" afterPath="$PROJECT_DIR$/linux/2020-1-30/udp_chat_other.py" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/.greet_user.py.swp" afterPath="$PROJECT_DIR$/linux/2020-1-24/.greet_user.py.swp" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/Count.py" afterPath="$PROJECT_DIR$/linux/2020-1-24/Count.py" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/alice.txt" afterPath="$PROJECT_DIR$/linux/2020-1-24/alice.txt" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/alice_advantures.txt" afterPath="$PROJECT_DIR$/linux/2020-1-24/alice_advantures.txt" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/number.json" afterPath="$PROJECT_DIR$/linux/2020-1-24/number.json" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/number_reader.py" afterPath="$PROJECT_DIR$/linux/2020-1-24/number_reader.py" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/number_write.py" afterPath="$PROJECT_DIR$/linux/2020-1-24/number_write.py" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/remember_me.py" afterPath="$PROJECT_DIR$/linux/2020-1-24/remember_me.py" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/username.json" afterPath="$PROJECT_DIR$/linux/2020-1-24/username.json" />
+      <change beforePath="$PROJECT_DIR$/linux/2020-2-24/world_count.py" afterPath="$PROJECT_DIR$/linux/2020-1-24/world_count.py" />
+      <change beforePath="$PROJECT_DIR$/my_pro/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/.idea/my_pro.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_01_pygame入门.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_02_使用Rect描述英雄.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_03_创建游戏窗口.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_04_绘制图像.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_05_绘制英雄图像.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_06_update方法.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_07_认识时钟游戏循环.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_08_更新英雄位置.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_09_英雄循环飞行.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_10_事件监听.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_11_监听退出事件.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/hm_12_演练精灵.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/again.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/background.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/bomb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/bomb_supply.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/bullet1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/bullet2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/bullet_supply.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy1_down1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy1_down2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy1_down3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy1_down4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy2_down1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy2_down2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy2_down3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy2_down4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy2_hit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_down1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_down2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_down3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_down4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_down5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_down6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_hit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_n1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/enemy3_n2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/gameover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/life.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/me1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/me2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/me_destroy_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/me_destroy_2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/me_destroy_3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/me_destroy_4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/pause_nor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/pause_pressed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/resume_nor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/images/resume_pressed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/plane_main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/my_pro/plane_sprites.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mysql_demo/mysql_connect.py" afterPath="" />
     </list>
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +103,20 @@
     <expand />
     <select />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="udp_chat_other.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linux/2020-1-30/udp_chat_other.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -38,6 +127,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1366" />
     <option name="y" value="249" />
@@ -47,6 +142,36 @@
   <component name="ProjectId" id="1WyQcw8T1CdUtMudEHRf6cNmmGH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -76,9 +201,145 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/windows" />
+      <recent name="$PROJECT_DIR$/linux/2020-1-30" />
+      <recent name="$PROJECT_DIR$/linux" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/python.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/2020-1-30/udp_bind.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/2020-1-30/udp_chat.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/2020-1-30/udp_receive.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/2020-1-30/udp_send.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/for_work/udp_chat_other.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/my_pro/__pycache__/plane_sprites.cpython-38.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/mysql_demo/mysql_connect.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Python.plane_main">
     <configuration name="hm_11_监听退出事件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -89,18 +350,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/hm_11_监听退出事件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="hm_12_演练精灵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -111,18 +369,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/hm_12_演练精灵.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="pizza" type="PythonConfigurationType" factoryName="Python">
-      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -133,18 +388,15 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-1-17/making_pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,18 +407,15 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/plane_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="plane_sprites" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -177,29 +426,32 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_pro/plane_sprites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.pizza" />
-      <item itemvalue="Python.hm_11_监听退出事件" />
-      <item itemvalue="Python.hm_12_演练精灵" />
-      <item itemvalue="Python.plane_main" />
-      <item itemvalue="Python.plane_sprites" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.hm_11_监听退出事件" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hm_12_演练精灵" />
+      <item index="2" class="java.lang.String" itemvalue="Python.plane_sprites" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pizza" />
+      <item index="4" class="java.lang.String" itemvalue="Python.plane_main" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.plane_main" />
-        <item itemvalue="Python.plane_sprites" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.plane_main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.plane_sprites" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hm_12_演练精灵" />
+        <item index="3" class="java.lang.String" itemvalue="Python.hm_11_监听退出事件" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -247,6 +499,32 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978677" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -296,10 +574,145 @@
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580196972017" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1580201779692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
     <SUITE FILE_PATH="coverage/python$hm_12_.coverage" NAME="hm_12_演练精灵 Coverage Results" MODIFIED="1580128987267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
     <SUITE FILE_PATH="coverage/python$hm_11_.coverage" NAME="hm_11_监听退出事件 Coverage Results" MODIFIED="1580125841353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_pro" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/images/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="92" column="51" lean-forward="true" selection-start-line="92" selection-start-column="51" selection-end-line="92" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/pygame/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="475" column="0" lean-forward="false" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/plane_sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/windows/my_pro/images/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/2020-1-30/udp_receive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/2020-1-30/udp_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/2020-1-30/udp_chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/2020-1-30/udp_bind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/2020-1-30/mysql_demo/mysql_connect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/2020-1-30/udp_chat_other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
